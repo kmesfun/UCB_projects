@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/Caloristics/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/Caloristics/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout-sw600dp/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/CrunchTime/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/CrunchTime/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout-sw600dp/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/kennedymesfun/AndroidStudioProjects/CrunchTime(New)/Caloristics/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/Users/kennedymesfun/.android/build-cache/cbc1c8fc86fced4e4d4c250a3ccdf1349f6f6380/output/res/layout-sw600dp/design_layout_snackbar.xml"
+    }
+]

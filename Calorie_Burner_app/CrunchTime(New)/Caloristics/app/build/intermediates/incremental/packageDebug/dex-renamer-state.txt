@@ -1,0 +1,7 @@
+#Thu Aug 03 19:01:53 PDT 2017
+base.0=/Users/kennedymesfun/AndroidStudioProjects/CrunchTime(New)/Caloristics/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ace7644b19b216d7a8c32366cf38b8e61a5285ff
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/kennedymesfun/AndroidStudioProjects/CrunchTime(New)/Caloristics/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_853fafb5f6e01cfd00c31f43b97fa1c3c3239147/classes.dex
+base.1=/Users/kennedymesfun/AndroidStudioProjects/CrunchTime(New)/Caloristics/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_853fafb5f6e01cfd00c31f43b97fa1c3c3239147
+file.0=/Users/kennedymesfun/AndroidStudioProjects/CrunchTime(New)/Caloristics/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ace7644b19b216d7a8c32366cf38b8e61a5285ff/classes.dex

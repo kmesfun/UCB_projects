@@ -1,0 +1,74 @@
+[
+    {
+        "outputFile": "/Users/kennedymesfun/AndroidStudioProjects/CrunchTime(New)/Caloristics/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h320dp-v13/values-h320dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/kennedymesfun/.android/build-cache/19d1934a0a510f39748e9c67f3cdaa313406ffee/output/res/values-h320dp/values-h320dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 231,
+                        "endColumn": 57,
+                        "endOffset": 284
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/Caloristics/app/build/intermediates/res/merged/debug/values-h320dp-v13/values-h320dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/Caloristics/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-h320dp/values-h320dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 231,
+                        "endColumn": 57,
+                        "endOffset": 284
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/CrunchTime/app/build/intermediates/res/merged/debug/values-h320dp-v13/values-h320dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/CrunchTime/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-h320dp/values-h320dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 231,
+                        "endColumn": 57,
+                        "endOffset": 284
+                    }
+                }
+            }
+        ]
+    }
+]

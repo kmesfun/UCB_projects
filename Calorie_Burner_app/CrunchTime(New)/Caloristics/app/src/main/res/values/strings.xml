@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Weight Trainer</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello Worldy!</string>
+    <string name="pushups">Pushups</string>
+    <string name="situps">Situps</string>
+    <string name="jumping_jacks">Jumping Jacks</string>
+    <string name="jogging">Jogging</string>
+    <string name="reps">reps</string>
+    <string name="minutes">minutes</string>
+    <string name="burn_calories">Burn Calories</string>
+    <string name="calories_burned">Calories Burned: 0.0</string>
+    <string name="message">Calculate how many calories you\'ve burned below</string>
+    <string name="select_an_exercise">Select an exercise:</string>
+    <string name="enter_duration">Enter the number of reps:</string>
+    <string name="exercise_grid"></string>
+
+    <string-array name="exercises">
+        <item>Cycling</item>
+        <item>Jogging</item>
+        <item>Jumping Jacks</item>
+        <item>Leg-Lifts</item>
+        <item>Planks</item>
+        <item>Pullups</item>
+        <item>Pushups</item>
+        <item>Situps</item>
+        <item>Squats</item>
+        <item>Stair-Climbing</item>
+        <item>Swimming</item>
+        <item>Walking</item>
+    </string-array>
+</resources>

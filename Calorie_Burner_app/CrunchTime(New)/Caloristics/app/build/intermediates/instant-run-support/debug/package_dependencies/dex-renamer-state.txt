@@ -1,0 +1,19 @@
+#Sat Jul 22 13:31:02 PDT 2017
+renamed.5=classes.dex
+renamed.4=classes5.dex
+renamed.3=classes4.dex
+renamed.2=classes2.dex
+renamed.1=classes6.dex
+renamed.0=classes3.dex
+base.5=/Users/kennedymesfun/AndroidStudioProjects/CrunchTime(New)/Caloristics/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_039de5f657a85c46574d53191d65b0f90fd7e9be
+base.4=/Users/kennedymesfun/AndroidStudioProjects/CrunchTime(New)/Caloristics/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_35f4b547d9af3566ec9a435bb797cc6ce7d98a4d
+base.3=/Users/kennedymesfun/AndroidStudioProjects/CrunchTime(New)/Caloristics/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9926e8f25426400e2b82dbb1ac0872ee7a5ccae7
+base.2=/Users/kennedymesfun/AndroidStudioProjects/CrunchTime(New)/Caloristics/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4e66815152a88eaef0cf260fda36bd683cc09a2b
+base.1=/Users/kennedymesfun/AndroidStudioProjects/CrunchTime(New)/Caloristics/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_ecb9484385c25624f2f051ebc900556b7add6532
+base.0=/Users/kennedymesfun/AndroidStudioProjects/CrunchTime(New)/Caloristics/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_56847fa4bfb4d3ded8b3da7f14c79fac9490b8f3
+file.5=/Users/kennedymesfun/AndroidStudioProjects/CrunchTime(New)/Caloristics/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_039de5f657a85c46574d53191d65b0f90fd7e9be/classes.dex
+file.4=/Users/kennedymesfun/AndroidStudioProjects/CrunchTime(New)/Caloristics/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_35f4b547d9af3566ec9a435bb797cc6ce7d98a4d/classes.dex
+file.3=/Users/kennedymesfun/AndroidStudioProjects/CrunchTime(New)/Caloristics/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9926e8f25426400e2b82dbb1ac0872ee7a5ccae7/classes.dex
+file.2=/Users/kennedymesfun/AndroidStudioProjects/CrunchTime(New)/Caloristics/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4e66815152a88eaef0cf260fda36bd683cc09a2b/classes.dex
+file.1=/Users/kennedymesfun/AndroidStudioProjects/CrunchTime(New)/Caloristics/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_ecb9484385c25624f2f051ebc900556b7add6532/classes.dex
+file.0=/Users/kennedymesfun/AndroidStudioProjects/CrunchTime(New)/Caloristics/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_56847fa4bfb4d3ded8b3da7f14c79fac9490b8f3/classes.dex

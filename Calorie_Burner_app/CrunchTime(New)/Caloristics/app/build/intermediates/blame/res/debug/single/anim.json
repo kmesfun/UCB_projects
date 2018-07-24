@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/Caloristics/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/Caloristics/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/CrunchTime/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/CrunchTime/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/CrunchTime/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/CrunchTime/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/Caloristics/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/Caloristics/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/kennedymesfun/AndroidStudioProjects/CrunchTime(New)/Caloristics/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/kennedymesfun/.android/build-cache/19d1934a0a510f39748e9c67f3cdaa313406ffee/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/CrunchTime/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/CrunchTime/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/Caloristics/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/Caloristics/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/CrunchTime/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/CrunchTime/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/Caloristics/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/Caloristics/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/kennedymesfun/AndroidStudioProjects/CrunchTime(New)/Caloristics/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/kennedymesfun/.android/build-cache/19d1934a0a510f39748e9c67f3cdaa313406ffee/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/kennedymesfun/AndroidStudioProjects/CrunchTime(New)/Caloristics/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/kennedymesfun/.android/build-cache/cbc1c8fc86fced4e4d4c250a3ccdf1349f6f6380/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/Caloristics/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/Caloristics/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/Caloristics/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/Caloristics/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/CrunchTime/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/CrunchTime/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/CrunchTime/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/CrunchTime/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/kennedymesfun/AndroidStudioProjects/CrunchTime(New)/Caloristics/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/kennedymesfun/.android/build-cache/19d1934a0a510f39748e9c67f3cdaa313406ffee/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/kennedymesfun/AndroidStudioProjects/CrunchTime(New)/Caloristics/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/kennedymesfun/.android/build-cache/cbc1c8fc86fced4e4d4c250a3ccdf1349f6f6380/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/kennedymesfun/AndroidStudioProjects/CrunchTime(New)/Caloristics/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/kennedymesfun/.android/build-cache/19d1934a0a510f39748e9c67f3cdaa313406ffee/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/kennedymesfun/AndroidStudioProjects/CrunchTime(New)/Caloristics/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/kennedymesfun/.android/build-cache/19d1934a0a510f39748e9c67f3cdaa313406ffee/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/kennedymesfun/AndroidStudioProjects/CrunchTime(New)/Caloristics/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/kennedymesfun/.android/build-cache/19d1934a0a510f39748e9c67f3cdaa313406ffee/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/CrunchTime/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/CrunchTime/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/Caloristics/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/Caloristics/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/CrunchTime/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/CrunchTime/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/kennedymesfun/AndroidStudioProjects/CrunchTime(New)/Caloristics/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/kennedymesfun/.android/build-cache/19d1934a0a510f39748e9c67f3cdaa313406ffee/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/Caloristics/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/Caloristics/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/kennedymesfun/AndroidStudioProjects/CrunchTime(New)/Caloristics/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/kennedymesfun/.android/build-cache/19d1934a0a510f39748e9c67f3cdaa313406ffee/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/CrunchTime/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/CrunchTime/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/kennedymesfun/AndroidStudioProjects/CrunchTime(New)/Caloristics/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/kennedymesfun/.android/build-cache/cbc1c8fc86fced4e4d4c250a3ccdf1349f6f6380/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/kennedymesfun/AndroidStudioProjects/CrunchTime(New)/Caloristics/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/kennedymesfun/.android/build-cache/19d1934a0a510f39748e9c67f3cdaa313406ffee/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/CrunchTime/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/CrunchTime/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/CrunchTime/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/CrunchTime/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/CrunchTime/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/CrunchTime/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/Caloristics/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/Caloristics/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/Caloristics/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/Caloristics/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/kennedymesfun/AndroidStudioProjects/CrunchTime(New)/Caloristics/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/kennedymesfun/.android/build-cache/cbc1c8fc86fced4e4d4c250a3ccdf1349f6f6380/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/kennedymesfun/AndroidStudioProjects/CrunchTime(New)/Caloristics/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/kennedymesfun/.android/build-cache/19d1934a0a510f39748e9c67f3cdaa313406ffee/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/Caloristics/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/Caloristics/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/CrunchTime/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/CrunchTime/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/Caloristics/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/Caloristics/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/Caloristics/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/Caloristics/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/CrunchTime/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/CrunchTime/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/Caloristics/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/Dalton/Google_Drive/Homework/Spring_2016/CS_160/Assignments/PROG_01_Crunch_Time/prog-01-crunch-time-daltonboll/Caloristics/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_popup_enter.xml"
+    }
+]
