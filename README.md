@@ -1,2 +1,2 @@
 
-#Projects done as assignments from several classes
+Projects done as assignments from several classes
