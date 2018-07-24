@@ -1,0 +1,2 @@
+# pagerank
+This was a 2 person group CS61C project. We created a MapReduce programming paradigm to implement two different variations of the classic PageRank algorithm in the Spark framework. The SimplePageRank is a random surfer model where a user has 3 options at every timestep: stay on the page, randomly follow a link on the page, or randomly go to any page in the graph. The BackedgesPageRank was the same but with a "back" button, going back to the previous page.
